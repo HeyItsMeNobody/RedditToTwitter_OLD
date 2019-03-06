@@ -1,0 +1,19 @@
+{
+    "reddit": {
+        "userAgent": "",
+        "clientId": "",
+        "clientSecret": "",
+        "username": "",
+        "password": ""
+    },
+    "bot": {
+        "msToWait": "900000",
+        "subreddit": "Re_Zero"
+    },
+    "twitter": {
+        "consumer_key": "",
+        "consumer_secret": "",
+        "access_token": "",
+        "access_token_secret": ""
+    }
+}
